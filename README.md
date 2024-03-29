@@ -7,3 +7,5 @@
 
 [AllenAI 开源了关于大模型的所有细节！数据、代码、参数、训练过程，完全复现](https://mp.weixin.qq.com/s/BtcVlIlEaC9Spn2wrv8tpw)   
 
+[不分割成token，直接从字节中高效学习，Mamba原来还能这样用](https://mp.weixin.qq.com/s/48OZLCZpDhvhoraxvf7Y2g)  
+
