@@ -5,3 +5,5 @@
 
 [何恺明谢赛宁团队步步解构扩散模型，最后竟成经典去噪自编码器](https://mp.weixin.qq.com/s/tP_evn-Rn3sy7_R3pQeghQ)  
 
+[AllenAI 开源了关于大模型的所有细节！数据、代码、参数、训练过程，完全复现](https://mp.weixin.qq.com/s/BtcVlIlEaC9Spn2wrv8tpw)   
+
