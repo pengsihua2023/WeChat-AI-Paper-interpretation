@@ -1,4 +1,4 @@
-# 微信：论文解读
+# 微信：AI论文解读
 [Science | 基于RoseTTAFold All-Atom的通用生物分子建模与设计](https://mp.weixin.qq.com/s/oywto2heA85kCVG0aBZqrQ)  
 
 [斯坦福博士论文AIGC：机器学习的合成数据生成与应用](https://mp.weixin.qq.com/s/ya6cz6r3nbR0jilfIhji8Q)  
